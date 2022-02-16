@@ -2,7 +2,9 @@ node_modules
 
 .cache
 .env
+.mf
 
 build
+dist
 public/build
 app/tailwind.css
